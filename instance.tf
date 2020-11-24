@@ -29,4 +29,3 @@ resource "google_compute_instance" "tf-chapter5-002" {
     network = "default"
   }
 }
-
